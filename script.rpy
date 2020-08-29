@@ -556,7 +556,7 @@ label start:
                 Bear "All right. I guess it's worth a try. By the way (looks around the beach) did you notice there's barely any other animals here?"
                 show scene04_bear_enters_jungle
                 Scorpion "Yeah. that is a bit worrying, isn't it?"
-                Bear "*Sniff* I smeel something sweet not far off."
+                Bear "*Sniff* I smell something sweet not far off."
                 Scorpion "That something sweet will probably still be there in the morning"
                 Bear "(Nodding) let's head back and we'll go at first daylight"
         
